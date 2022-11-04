@@ -1,0 +1,9 @@
+void main()
+{
+int a,b;
+int c=a+b;
+89
+2
+3
+printf("%d",c);
+}
